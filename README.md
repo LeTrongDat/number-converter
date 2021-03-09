@@ -21,8 +21,6 @@ one thousand one hundred twenty-three
 
 ## Run
 
-`make run-vn`: Run the programm with vietnamese language.
-
-`make run-en`: Run the programm with english language.
-
-`make run-h`: See the list of all available options.
+    make run-vn:    Run the programm with vietnamese language.
+    make run-en:    Run the programm with english language.
+    make run-h:     See the list of all available options.

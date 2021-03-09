@@ -19,5 +19,7 @@ run-vn: main
 	./a.out -l=vn 
 run-en: main 
 	./a.out -l=en
+run-h: main 
+	./a.out -h
 
 
