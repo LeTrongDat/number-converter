@@ -24,3 +24,11 @@ one thousand one hundred twenty-three
     make run-vn:    Run the programm with vietnamese language.
     make run-en:    Run the programm with english language.
     make run-h:     See the list of all available options.
+
+## Examples
+
+![Alt text](./test01-vn.png)
+
+![Alt text](./test02-en.png)
+
+![Alt text](./test03-help.png)
