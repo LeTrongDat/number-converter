@@ -27,8 +27,14 @@ one thousand one hundred twenty-three
 
 ## Examples
 
+1.Vietnamese language
+
 ![Alt text](./test01-vn.png)
 
+2.English language
+
 ![Alt text](./test02-en.png)
+
+3.List of all available options
 
 ![Alt text](./test03-help.png)
