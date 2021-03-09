@@ -47,6 +47,6 @@ NumberConverter::NumberConverter(){};
 NumberConverter::NumberConverter(I18N* i18n): i18n(i18n) {};
 string NumberConverter::convert(BigDecimal num) {
     if (num == 0) return i18n->get("zero");
-    if (num.get_sign() == -1) return i18n->get("negative") + " " + read(num.subnum(1, num.get_length() - 1));
+    if (num.get_sign() == -1) return i18n->get("negative") + " " + read(num);
     return read(num);
 }
